@@ -1,5 +1,4 @@
 package sample;
-//vhdgfhgu
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
